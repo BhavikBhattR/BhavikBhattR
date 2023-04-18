@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on private projects<br>👥 I would love to collaborate on unique projects<br>🍏👨‍💻 I work upon IOS and web-dev projects<br>📚 Currently I am exploring web-dev<br>🙋🏻‍♂️ Ask me about swiftUI and React<br>🤟 Fun Fact - I don't love programming, I love results of it<br>
+🔭 I am currently working on personal projects<br>👥 I would love to collaborate on unique projects<br>🍏👨‍💻 I work upon IOS and web-dev projects<br>📚 Currently I am exploring web-dev<br>🙋🏻‍♂️ Ask me about swiftUI and React<br>🤟 Fun Fact - I don't love programming, I love results of it<br>
 
 
 ## 🌐 Socials:
